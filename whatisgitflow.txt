@@ -12,7 +12,7 @@ develop: 다음 버전을 개발하는 브랜치
 feature: 단위별로 기능을 개발하는 브랜치 (완료되면 develop 브런치와 병합)
 release: 배포 전 (master와 병합 전) QA를 통해 버그를 찾아내기 위한 브랜치
 hotfixes: master브랜치에서 발생한 버그를 긴급하게 수정하는 브랜치
-master와 develop은 항상 유지되는 메ㅇ닏 브랜치들이며 그 외에 feature, release, hotfixes는 필요한 기간에만 유지되는 보조 브랜치들이다.
+master와 develop은 항상 유지되는 메인 브랜치들이며 그 외에 feature, release, hotfixes는 필요한 기간에만 유지되는 보조 브랜치들이다.
 
 ----  
 
